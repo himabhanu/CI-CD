@@ -5,9 +5,13 @@ SDT -> git -> build & intregrate -> compile -> package -> OPS Team -> test envir
 📘 **OLD SCHOOL PROBLEMS** 📘
 
 Integration is painful and effort consuming 
+
 Fixing issues at the end of integrations 
+
 Intermediate merge issues can hold up team 
+
 Long Feedback cycle for functinal defects 
+
 Long iterations 
 
 ➡️**Continous Integration** - BUILD PIPELINE 

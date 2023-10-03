@@ -21,6 +21,7 @@ Different components  [customer profile, product catalog, order tracking]-> Git 
 ➡️**Continous Delivery** - you can deploy the image 
 
 Package +instructions -> operations team -> read instructions -> prepare environment -> test environment -> testing    🔲 OLD SCHOOL 
+
 Package -> operations team -> automated script -> test environment -> testing QA -> public website                     🔲 UPDATE VERSION 
 
 ➡️**Continous Deployment** - automated to production - risks involved 
